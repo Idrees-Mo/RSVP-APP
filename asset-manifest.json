@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RSVP-APP/static/css/main.754ee8f6.chunk.css",
+    "main.js": "/RSVP-APP/static/js/main.7f58088b.chunk.js",
+    "main.js.map": "/RSVP-APP/static/js/main.7f58088b.chunk.js.map",
+    "runtime~main.js": "/RSVP-APP/static/js/runtime~main.413aa78c.js",
+    "runtime~main.js.map": "/RSVP-APP/static/js/runtime~main.413aa78c.js.map",
+    "static/js/2.4351708f.chunk.js": "/RSVP-APP/static/js/2.4351708f.chunk.js",
+    "static/js/2.4351708f.chunk.js.map": "/RSVP-APP/static/js/2.4351708f.chunk.js.map",
+    "index.html": "/RSVP-APP/index.html",
+    "precache-manifest.74c396694b5f2989e267aefaf99f451f.js": "/RSVP-APP/precache-manifest.74c396694b5f2989e267aefaf99f451f.js",
+    "service-worker.js": "/RSVP-APP/service-worker.js",
+    "static/css/main.754ee8f6.chunk.css.map": "/RSVP-APP/static/css/main.754ee8f6.chunk.css.map"
+  }
+}
